@@ -30,18 +30,22 @@ public class CreditData {
     }
 
     public String getCardHolderName() {
+
         return cardHolderName;
     }
 
     public void setCardHolderName(String cardHolderName) {
+
         this.cardHolderName = cardHolderName;
     }
 
     public String getCardHolderPan() {
+
         return cardHolderPan;
     }
 
     public void setCardHolderPan(String cardHolderPan) {
+
         this.cardHolderPan = cardHolderPan;
     }
 
@@ -50,38 +54,47 @@ public class CreditData {
     }
 
     public void setCardNumber(String cardNumber) {
+
         this.cardNumber = cardNumber;
     }
 
     public String getCardLimit() {
+
         return cardLimit;
     }
 
     public void setCardLimit(String cardLimit) {
+
         this.cardLimit = cardLimit;
     }
 
     public String getCardCvv() {
+
         return cardCvv;
     }
 
     public void setCardCvv(String cardCvv) {
+
         this.cardCvv = cardCvv;
     }
 
     public long getCardPin() {
+
         return cardPin;
     }
 
     public void setCardPin(Long cardPin) {
+
         this.cardPin = cardPin;
     }
 
     public String getBankName() {
+
         return bankName;
     }
 
     public void setBankName(String bankName) {
+
         this.bankName = bankName;
     }
 }
